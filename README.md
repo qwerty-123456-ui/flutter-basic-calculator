@@ -1,10 +1,9 @@
-# mtapp1
+# Flutter Basic Calculator
 
-A new Flutter application.
 
-## Getting Started
+This project is a basic flutter calculator.
 
-This project is a starting point for a Flutter application.
+![](assets/1.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
